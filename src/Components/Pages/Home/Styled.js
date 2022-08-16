@@ -26,9 +26,9 @@ transition-duration: 0.5s;
 `
 
 export const CardSettings = styled.section`
-padding: 15px 20px;
-width: 334px;
-height: 212px;
+padding: 0.9375rem 1.25rem;
+width: 20.875rem;
+height: 13.25rem;
 background-color: #F2F2F2;
 box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 display: flex;
@@ -39,9 +39,9 @@ border-radius: 6px;
 `
 
 export const DivVelocidade = styled.div`
-height: 60px;
-width: 315px;
-margin-bottom: 15px;
+height: 3.75rem;
+width: 19.6875rem;
+margin-bottom: 0.9375rem;
 `
 
 export const DefaultP = styled.p`
@@ -52,22 +52,22 @@ color: #606060;
 `
 
 export const DivQuantidadeFotos = styled.div`
-height: 60px;
-width: 315px;
-margin-bottom: 15px;
+height: 3.75rem;
+width: 19.6875rem;
+margin-bottom: 0.9375rem;
 `
 
 export const DivDireção = styled.div`
-height: 60px;
-width: 315px;
-margin-bottom: 15px;
+height: 3.75rem;
+width: 19.6875rem;
+margin-bottom: 0.9375rem;
 `
 
 export const SectionAnguloPlataforma = styled.section`
 display: flex;
 flex-direction: column;
 align-items: center;
-padding: 15px 10px;
+padding: 0.9375rem 0.625rem;
 width: 22.125rem;
 height: 8.0625rem;
 box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
@@ -76,9 +76,9 @@ border-radius: 6px;
 `
 
 export const ConteudoAnguloPlataforma = styled.div`
-height: 60px;
-width: 315px;
-margin-bottom: 15px;
+height: 3.75rem;
+width: 19.6875rem;
+margin-bottom: 0.9375rem;
 `
 
 export const SectionButtons = styled.div`
@@ -89,8 +89,8 @@ width: 19.375rem;
 `
 
 export const ButtonGoBack = styled.button`
-height: 35px;
-width: 35px;
+height: 2.1875rem;
+width: 2.1875rem;
 background-color: #0071E3;
 border: none;
 border-radius: 8px;
@@ -104,8 +104,8 @@ cursor: pointer;
 `
 
 export const ButtonGoForward = styled.button`
-height: 35px;
-width: 35px;
+height: 2.1875rem;
+width: 2.1875rem;
 background-color: #0071E3;
 border: none;
 border-radius: 8px;
